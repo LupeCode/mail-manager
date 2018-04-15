@@ -27,6 +27,10 @@ That's it.  You don't actually need to run this on an email server, this app jus
 
 You'll need to create a `config.php` file, use `config.sample.php` as a guide.  Or just rename that file and edit it.
 
+## Screenshot
+
+![screenshot](https://projects.lupecode.com/mail-manager/images/Screen Shot 2018-04-14 at 22.44.28-fullpage.png "Screenshot")
+
 ## Database Setup
 
 The database this is set up for has these three tables.  As stated, yours are probably different.  These are included here to give you an idea of what you might have to change to get this to work on your system.
