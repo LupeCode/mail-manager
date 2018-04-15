@@ -29,7 +29,7 @@ You'll need to create a `config.php` file, use `config.sample.php` as a guide.  
 
 ## Screenshot
 
-![screenshot](https://projects.lupecode.com/mail-manager/images/Screen Shot 2018-04-14 at 22.44.28-fullpage.png "Screenshot")
+![screenshot](https://projects.lupecode.com/mail-manager/images/Screen%20Shot%202018-04-14%20at%2022.44.28-fullpage.png "Screenshot")
 
 ## Database Setup
 
