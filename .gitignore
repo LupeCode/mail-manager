@@ -60,3 +60,7 @@ nbproject
 .*
 !/.gitignore
 vendor/
+
+# User files #
+##############
+config.php
