@@ -1,0 +1,18 @@
+{
+  "name": "lupecode/mail-manager",
+  "description": "A simple script for managing virtual SQL mailboxes for Postfix/Dovecot or similar",
+  "version": "0.2.0",
+  "license": "GNU GPLv3",
+  "authors": [
+    {
+      "name": "Joshua Lopez",
+      "email": "joshua@lupecode.com",
+      "homepage": "https://github.com/LupeCode",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "aura/sql": "~2.5.0",
+    "aura/session": "~2.1.0"
+  }
+}
